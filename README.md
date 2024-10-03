@@ -1,1 +1,2 @@
 # AWS-PROJECT--YOUTUBE-ANALYSIS
+YouTube trending videos vary greatly from one region to another, driven by factors like cultural tastes, language, and local trends. Despite this, there is limited insight into how elements like likes, comments, video categories, and language influence a video's trending status within specific regions. This project aims to explore this area by thoroughly analyzing YouTube's trending data, emphasizing regional differences and the role these factors play in shaping a video's popularity.
